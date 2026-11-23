@@ -1,0 +1,19 @@
+
+{
+  "name": "Tempero de Casa",
+  "short_name": "Tempero",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0c1913",
+  "theme_color": "#0c1913",
+  "icons": [
+    {
+      "src": "./icone.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
